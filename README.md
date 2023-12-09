@@ -74,7 +74,7 @@ In order to run this project you need:
 
 Clone this repository to your desired folder:
 
-https://github.com/shahzaman900/hello-rails-frontend.git
+https://github.com/shahzaman900/rails-frontend.git
 
 ### Install
 
