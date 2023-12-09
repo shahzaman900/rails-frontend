@@ -46,7 +46,7 @@
 </details>
 
 <h2>
- Client side Repository link: https://github.com/shahzaman900/hello-rails-front-end
+ Back end Repository link: https://github.com/shahzaman900/rails-backend
 </h2>
 
 <!-- Features -->
